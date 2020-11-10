@@ -1,14 +1,14 @@
-<center>
+<div align="center">
 
 # Sound Simulator
 
-</center>
+</div>
 
 
 ## Table of Contents
-- Introduction
-- Landing Page
-- Objective
+- [Introduction](#Introduction)
+- [Landing Page](#Landing-Page)
+- [Objective](#Objective)
 
 
 ## Introduction
