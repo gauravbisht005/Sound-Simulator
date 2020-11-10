@@ -20,7 +20,7 @@ library that lets users add audio to certain parts of the file while the Paper.j
 Here is an overview of the layout of the project:
 <img src="">
 The inner rectangular region (in purple) is the cnavas where all the effects of the JS libraries happen.
-<img src="">
+<img src="https://github.com/gauravbisht005/Sound-Simulator/blob/master/assets/Canvas.jpg">
 
 
 ## Objective
