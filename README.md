@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Sound Simulator](https://gauravbisht005.github.io/Sound-Simulator/)
+# 👉[Sound Simulator](https://gauravbisht005.github.io/Sound-Simulator/)👈
 
 </div>
 
